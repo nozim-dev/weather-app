@@ -193,3 +193,31 @@ body {
     height: 85vh;
   }
 }
+@media screen and (max-width: 902px){
+  .Main{
+    margin: 50% 0 0 24%;
+    max-width: 50%;
+    height: 50vh;
+  }
+}
+@media screen and (max-width: 415px){
+  .Main{
+    margin: 50% 0 0 24%;
+    max-width: 50%;
+    height: 41vh;
+  }
+}
+@media screen and (max-width: 411px){
+  .Main{
+    margin: 50% 0 0 24%;
+    max-width: 50%;
+    height: 52vh;
+  }
+}
+@media screen and (max-width: 374px){
+  .Main{
+    margin: 50% 0 0 24%;
+    max-width: 50%;
+    height: 52vh;
+  }
+}
